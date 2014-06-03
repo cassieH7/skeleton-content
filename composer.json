@@ -1,0 +1,16 @@
+{
+    "name": "cjhomsi/skeleton-app",
+    "description": "Skeleton content app",
+    "authors": [
+        {
+            "name": "Cassie Homsi",
+            "email": "cassie.homsi@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "slim/slim": "2.*", 
+        "slim/views": "0.1.*",
+        "twig/twig": "1.*"
+    }
+}
